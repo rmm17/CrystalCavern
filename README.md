@@ -1,6 +1,6 @@
 # CrystalCavern
 
-Marble Run game created in Unreal Engine Blueprint for the Udemy "Unreal Engine Blueprint Game Developer" course. 
+Crystal Cavern game created in Unreal Engine Blueprint for the Udemy "Unreal Engine Blueprint Game Developer" course. 
 
 Tools used: Unreal Engine 4.27.2
 
